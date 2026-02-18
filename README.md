@@ -12,13 +12,6 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zeeshan1112&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophy Graph" />
-</p>
-
----
-
 ### 🤖 AI & Engineering Specialization
 * **Agentic Systems**: Architecting orchestrators using **MCP SSE transport** and LLM-driven autonomous planning.
 * **Full-Stack Oracle AI**: Built NL-to-Logic Dataflow Assistants and Python-based LLM communication layers.
@@ -41,6 +34,18 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 <table border="0">
 <tr>
 <td width="50%" valign="top">
+<h4><a href="https://github.com/zeeshan1112/KeepMacAwake">KeepMacAwake</a></h4>
+<p>Native macOS utility optimized for productivity. Prevents system sleep through Python-based activity simulation.</p>
+<code>Python</code> <code>macOS API</code>
+</td>
+<td width="50%" valign="top">
+<h4><a href="#">DocScale (Private)</a></h4>
+<p>B2B SaaS for Healthcare. Automated SEO-optimized site provisioning for clinics with strict tenant isolation.</p>
+<code>Next.js</code> <code>Supabase</code> <code>Clerk</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h4><a href="https://github.com/zeeshanahmad-io/zeeshanahmad-dev-showcase">Zeeshan Ahmad Dev Showcase</a></h4>
 <p>Professional portfolio and technical blog built with React, Vite, and Keystatic CMS. Features hybrid Markdown storage and a specialized "Reader Mode" for focus.</p>
 <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>CMS</code>
@@ -49,18 +54,6 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 <h4><a href="https://github.com/zeeshanahmad-io/neural-care-connect">Neural Care Connect</a></h4>
 <p>Enterprise clinic platform for Neurology. Integrated appointment booking and patient contact systems with high-performance React/Tailwind frontend.</p>
 <code>React</code> <code>Tailwind</code> <code>Netlify</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/zeeshan1112/KeepMacAwake">KeepMacAwake</a></h4>
-<p>Native macOS utility optimized for productivity. Prevents system sleep through Python-based activity simulation.</p>
-<code>Python</code> <code>macOS API</code>
-</td>
-<td width="50%" valign="top">
-<h4><a href="#">DocScale (Private)</a></h4>
-<p>B2B SaaS for Healthcare. Automated SEO-optimized site provisioning for clinics with strict tenant isolation.</p>
-<code>Next.js" <code>Supabase</code> <code>Clerk</code>
 </td>
 </tr>
 </table>
