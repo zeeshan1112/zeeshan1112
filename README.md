@@ -15,7 +15,7 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 ### 🤖 AI & Engineering Specialization
 * **Agentic Systems**: Architecting orchestrators using **MCP SSE transport** and LLM-driven autonomous planning.
 * **Full-Stack Oracle AI**: Built NL-to-Logic Dataflow Assistants and Python-based LLM communication layers.
-* **Performance Engineering**: Proven success in reducing Global Search latency by **80%** via dynamic node fetching.
+* **Scalable Architectures**: Expertise in building multi-tenant SaaS platforms and high-performance microservices.
 * **DocScale (SaaS)**: Architecting a multi-tenant "website factory" using **Next.js App Router** and **Supabase RLS**.
 
 ---
