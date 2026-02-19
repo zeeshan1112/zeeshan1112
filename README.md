@@ -62,16 +62,18 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 
 ### 📈 Global Impact & Metrics
 <p align="center">
-<img src="https://github-readme-stats-alpha.vercel.app/api?username=zeeshan1112&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=false" width="48%" />
-<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=radical&hide=html,css" width="48%" />
+<table border="0" align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=zeeshan1112&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=false" height="195px" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=radical&hide=jupyter%20notebook,makefile,typescript&langs_count=6" height="195px" />
+</td>
+</tr>
+</table>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=radical&starting_year=2025" width="100%" />
-</p>
-
----
-
-<p align="center">
-<i>"For you to do something new, you need to stop doing something old."</i>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=radical&currStreakLabel=Last%201%20year&starting_year=2025" width="100%" />
 </p>
