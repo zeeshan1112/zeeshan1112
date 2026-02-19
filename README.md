@@ -74,19 +74,18 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 <table border="0" align="center">
 <tr align="center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshan1112&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeeshan1112&show_icons=true&theme=radical&count_private=true" height="195" alt="Overall Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=radical&hide=jupyter%20notebook,makefile,typescript,shell&langs_count=10" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=radical&hide=jupyter%20notebook,makefile,typescript,shell&langs_count=6" height="195" alt="Top Languages" />
 </td>
 </tr>
 </table>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=radical&custom_title=Last%201%20Year%20Contributions&hide_border=false" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=radical&mode=daily&date_format=M%20j%2C%20Y" width="100%" alt="Contribution Streak" />
 </p>
-
 ---
 
 <p align="center">
