@@ -60,32 +60,16 @@ Senior Engineering Leader with **10+ years of experience** specializing in the f
 
 ---
 
-🤖 Agentic AI & MCP Specialization
-<p align="left">
-<img src="https://img.shields.io/badge/Agentic%20AI-Autonomous%20Orchestration-8A2BE2?style=for-the-badge&logo=ai" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-FF4500?style=for-the-badge&logo=github" alt="MCP" />
-<img src="https://img.shields.io/badge/Frontier%20LLMs-Claude%20%7C%20Gemini%20%7C%20GPT-008080?style=for-the-badge" alt="LLMs" />
-</p>
-
----
-
 ### 📈 Global Impact & Metrics
 <p align="center">
-<table border="0" align="center">
-<tr align="center">
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshan1112&show_icons=true&theme=radical&count_private=true" height="195" alt="Overall Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=radical&hide=jupyter%20notebook,makefile,typescript,shell&langs_count=6" height="195" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=zeeshan1112&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=false" width="48%" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=radical&hide=html,css" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=radical&mode=daily&date_format=M%20j%2C%20Y" width="100%" alt="Contribution Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=radical&starting_year=2025" width="100%" />
 </p>
+
 ---
 
 <p align="center">
