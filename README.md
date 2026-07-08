@@ -6,26 +6,26 @@
 <img src="https://komarev.com/ghpvc/?username=zeeshan1112&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-Senior Engineering Leader with **10+ years of experience** specializing in the frontier of **Agentic AI**. I architect full-stack solutions with a focus on **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and enterprise-grade LLM integrations.
+Principal Software Engineer & AI Architect with **10+ years of experience** specializing in the frontier of **Agentic AI**. I design and build stateful multi-agent systems, secure tool execution runtimes, and enterprise-grade LLM infrastructure.
 
 [**zeeshanahmad.dev**](https://zeeshanahmad.dev) • [**LinkedIn**](https://linkedin.com/in/zeeshanahmad2/) • [**Email**](mailto:zeeshan.ahmad.career@gmail.com)
 
 ---
 
 ### 🤖 AI & Engineering Specialization
-* **Agentic Systems**: Architecting orchestrators using **MCP SSE transport** and LLM-driven autonomous planning.
-* **Full-Stack Oracle AI**: Built NL-to-Logic Dataflow Assistants and Python-based LLM communication layers.
-* **Scalable Architectures**: Expertise in building multi-tenant SaaS platforms and high-performance microservices.
-* **DocScale (SaaS)**: Architecting a multi-tenant "website factory" using **Next.js App Router** and **Supabase RLS**.
+* **Agentic Systems**: Architecting stateful, multi-agent workflows using **LangGraph** and secure tool execution runtimes powered by the **Model Context Protocol (MCP)**.
+* **LLM Optimization & Evaluation**: Designing Python-based intermediate representations to compress token usage and building automated evaluation workflows and benchmarking harnesses to detect prompt regressions.
+* **Enterprise Architectures**: Overhauling joins systems, integrating **Lucene-based search**, and designing Git-backed undo/redo frameworks at scale.
+* **DocScale (SaaS)**: Architecting a multi-tenant clinic website provisioning platform using **React/Vite**, **Next.js SSR**, and **PostgreSQL RLS** data isolation.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 | category | tools & technologies |
 | :--- | :--- |
-| **AI / LLM** | MCP, Prompt Engineering (CoT), NLP, GPT-4o, Claude 3.5 Sonnet, AI-Driven QA Agents |
+| **AI / LLM** | LangGraph, Model Context Protocol (MCP), Prompt Engineering, LLM Evaluation (Benchmarking Harnesses), NLP |
 | **Languages** | Python, TypeScript, Java, Node.js, JavaScript (ES6+), T-SQL |
-| **Frameworks** | Next.js, React, Spring Boot, Supabase, Tailwind CSS, Express, Docker |
+| **Frameworks** | Next.js, React, Spring Boot, Supabase, Lucene, Express, Docker, Tailwind CSS |
 | **Editors** | Cursor, Claude Code, GitHub Copilot, Antigravity Codex |
 
 ---
