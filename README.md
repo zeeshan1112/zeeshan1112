@@ -2,6 +2,9 @@
 <p align="center">
   <b>Principal Software Engineer &amp; AI Architect</b>
 </p>
+<p align="center">
+  <img src="./assets/divider.svg" width="120" height="4" alt="Divider" />
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -11,15 +14,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/zeeshanahmad2/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%233b82f6" height="28" alt="LinkedIn" />
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%232563eb" height="36" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:zeeshan.ahmad.career@gmail.com">
-    <img src="https://api.iconify.design/material-symbols/mail-outline-rounded.svg?color=%233b82f6" height="28" alt="Email" />
+    <img src="https://api.iconify.design/material-symbols/mail-outline-rounded.svg?color=%232563eb" height="36" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://zeeshanahmad.dev" target="_blank">
-    <img src="https://api.iconify.design/lucide/globe.svg?color=%233b82f6" height="28" alt="Portfolio" />
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%232563eb" height="36" alt="Portfolio" />
   </a>
 </p>
 
