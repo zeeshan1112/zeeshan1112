@@ -1,7 +1,9 @@
 <h1 align="center">⚡ ZEESHAN AHMAD</h1>
+
 <p align="center">
-  <b>Principal Software Engineer & AI Architect</b><br>
-  Specializing in Stateful Multi-Agent Systems, Secure Runtimes, and B2B SaaS Infrastructure.
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Principal%20Software%20Engineer%20%26%20AI%20Architect;Designing%20stateful%20multi-agent%20workflows;Building%20secure%20MCP-powered%20runtimes;10%2B%20years%20of%20enterprise%20coding%20experience&font=Fira%20Code&center=true&width=500&height=45&color=3b82f6&vCenter=true&pause=1000&size=20" alt="Zeeshan Ahmad - Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -22,65 +24,6 @@
 ### 🧬 Professional Overview
 
 I am an engineering leader with **10+ years of experience** building high-performance enterprise applications, now designing and building stateful multi-agent workflows, MCP-powered agent runtimes, LLM evaluation pipelines, and context-optimization layers.
-
----
-
-### 📐 Featured System Architecture: Stateful Agent Platform
-
-To solve the challenges of context window degradation, runtime tool safety, and non-deterministic LLM output, this architecture incorporates stateful orchestration, sandboxed execution, and human-in-the-loop validation:
-
-```mermaid
-flowchart TD
-    %% Define Styles
-    classDef client fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
-    classDef agent fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#f8fafc;
-    classDef engine fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#f8fafc;
-    classDef db fill:#022c22,stroke:#34d399,stroke-width:2px,color:#f8fafc;
-    classDef guard fill:#450a0a,stroke:#f87171,stroke-width:2px,color:#f8fafc;
-
-    %% Nodes
-    User(["User (Natural Language)"])
-    UI["Analytics Interface / Client"]
-    Router{"Orchestrator Router"}
-    
-    subgraph AgenticCore [Agentic Platform Runtime]
-        Planner["Planning Agent (ToT / ReAct)"]
-        ExecutionDB[("State Store (Graph Memory)")]
-        MCPRuntime["MCP Tool Execution Runtime"]
-    end
-    
-    subgraph Guardrails [Safety & Validation]
-        PromptGuard["Input Guardrail (Injection Check)"]
-        HITL{"HITL Checkpoint"}
-        ExecGuard["Execution Guardrail (Rule Engine)"]
-    end
-
-    TargetAPI[("Enterprise Semantic Model / Database")]
-
-    %% Connections
-    User -->|Prompts| UI
-    UI --> PromptGuard
-    PromptGuard -->|Clean Request| Router
-    Router -->|State & Context| Planner
-    Planner -->|Action DAG| ExecutionDB
-    ExecutionDB -->|Proposed Tool Call| HITL
-    
-    HITL -->|Approved| ExecGuard
-    HITL -->|Rejected| Planner
-    
-    ExecGuard -->|Valid Call| MCPRuntime
-    MCPRuntime -->|Execute| TargetAPI
-    TargetAPI -->|Results| ExecutionDB
-    ExecutionDB -->|Next Step / Final Output| Router
-    Router -->|Response| UI
-
-    %% Apply Styles
-    class User,UI client;
-    class Router,Planner,MCPRuntime agent;
-    class ExecutionDB db;
-    class PromptGuard,ExecGuard,HITL guard;
-    class TargetAPI db;
-```
 
 ---
 
