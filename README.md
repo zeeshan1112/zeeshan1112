@@ -24,13 +24,13 @@
 
 ---
 
-### Professional Overview
+### <img src="https://img.shields.io/badge/-%233b82f6?style=flat-square&logo=octoface&logoColor=white" height="20" align="center" /> Professional Overview
 
 I am an engineering leader with **10+ years of experience** building high-performance enterprise applications, now designing and building stateful multi-agent workflows, MCP-powered agent runtimes, LLM evaluation pipelines, and context-optimization layers.
 
 ---
 
-### Featured Architecture
+### <img src="https://img.shields.io/badge/-%233b82f6?style=flat-square&logo=git-branch&logoColor=white" height="20" align="center" /> Featured Architecture
 
 <table border="0" width="100%">
 <tr>
@@ -77,7 +77,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### Technical Ecosystem
+### <img src="https://img.shields.io/badge/-%233b82f6?style=flat-square&logo=server&logoColor=white" height="20" align="center" /> Technical Ecosystem
 
 | category | tools & technologies |
 | :--- | :--- |
@@ -88,7 +88,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### Global Impact & Metrics
+### <img src="https://img.shields.io/badge/-%233b82f6?style=flat-square&logo=activity&logoColor=white" height="20" align="center" /> Global Impact & Metrics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="60%" alt="Zeeshan's GitHub Stats" />
