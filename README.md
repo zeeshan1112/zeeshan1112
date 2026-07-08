@@ -95,29 +95,46 @@ flowchart TD
 ---
 
 ### 🌟 Featured Architecture
-<table border="0">
+
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/zeeshan1112/KeepMacAwake">KeepMacAwake</a></h4>
-<p>Native macOS utility optimized for productivity. Prevents system sleep through Python-based activity simulation.</p>
-<code>Python</code> <code>macOS API</code>
+<h4>🌐 <a href="https://github.com/zeeshan1112/zerowebtools">ZeroWebTools</a></h4>
+<p>Privacy-first browser utility suite of 55+ developer, PDF, and image tools running 100% client-side via WebAssembly. Engineered with a modular TypeScript core library shared across the web app and a Chrome Extension.</p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/Chrome_Extension-%234285F4.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome Extension" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="#">DocScale (Private)</a></h4>
-<p>B2B SaaS for Healthcare. Automated SEO-optimized site provisioning for clinics with strict tenant isolation.</p>
-<code>Next.js</code> <code>Supabase</code> <code>Clerk</code>
+<h4>🏥 <a href="#">DocScale (Private)</a></h4>
+<p>Healthcare B2B SaaS platform that automates clinic site provisioning in seconds. Architected with React/Vite dashboards, Next.js App Router for server-side rendering (SSR), and PostgreSQL Row Level Security (RLS) for tenant isolation.</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/zeeshanahmad-io/zeeshanahmad-dev-showcase">Zeeshan Ahmad Dev Showcase</a></h4>
-<p>Professional portfolio and technical blog built with React, Vite, and Keystatic CMS. Features hybrid Markdown storage and a specialized "Reader Mode" for focus.</p>
-<code>React</code> <code>TypeScript</code> <code>Vite</code> <code>CMS</code>
+<h4>🕰️ <a href="https://github.com/zeeshan1112/KeepMacAwake">KeepMacAwake</a></h4>
+<p>Native macOS menu-bar utility preventing system sleep by posting synthetic user activity events directly into the CoreGraphics HID queue (bypassing macOS sleep policies without visible cursor movement).</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/macOS_Quartz-000000?style=flat-square&logo=apple&logoColor=white" alt="Quartz API" />
+  <img src="https://img.shields.io/badge/RumP5-grey?style=flat-square" alt="Rumps" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/zeeshanahmad-io/neural-care-connect">Neural Care Connect</a></h4>
-<p>Enterprise clinic platform for Neurology. Integrated appointment booking and patient contact systems with high-performance React/Tailwind frontend.</p>
-<code>React</code> <code>Tailwind</code> <code>Netlify</code>
+<h4>🖥️ <a href="https://github.com/zeeshanahmad-io/zeeshanahmad-dev-showcase">Zeeshan Ahmad Dev Showcase</a></h4>
+<p>Professional developer portfolio and technical blog built using React/Vite and Keystatic CMS, featuring hybrid Markdown storage and reader mode layout configurations.</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Keystatic-grey?style=flat-square" alt="Keystatic" />
+</p>
 </td>
 </tr>
 </table>
