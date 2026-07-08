@@ -90,16 +90,9 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ### Global Impact & Metrics
 
-<table border="0" width="100%">
-<tr>
-<td width="42%" valign="top">
-  <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="100%" alt="Zeeshan's GitHub Stats" />
-</td>
-<td width="58%" valign="top" style="padding-left: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan1112&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Zeeshan's Activity Graph" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="60%" alt="Zeeshan's GitHub Stats" />
+</p>
 
 ---
 
