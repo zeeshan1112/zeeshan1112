@@ -1,6 +1,6 @@
-<h1 align="center">⚡ ZEESHAN AHMAD</h1>
+<h1 align="center">ZEESHAN AHMAD</h1>
 <p align="center">
-  <b>Principal Software Engineer & AI Architect</b>
+  <b>Principal Software Engineer &amp; AI Architect</b>
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 ---
 
-### 🧬 Professional Overview
+### Professional Overview
 
 I am an engineering leader with **10+ years of experience** building high-performance enterprise applications, now designing and building stateful multi-agent workflows, MCP-powered agent runtimes, LLM evaluation pipelines, and context-optimization layers.
 
 ---
 
-### 🌟 Featured Architecture
+### Featured Architecture
 
 <table border="0" width="100%">
 <tr>
@@ -77,7 +77,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### 🛠️ Technical Ecosystem
+### Technical Ecosystem
 
 | category | tools & technologies |
 | :--- | :--- |
@@ -88,21 +88,15 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### 📈 Global Impact & Metrics
+### Global Impact & Metrics
 
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="42%" valign="top">
   <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="100%" alt="Zeeshan's GitHub Stats" />
 </td>
-<td width="45%" valign="top" style="padding-left: 20px;">
-  <h4>🚀 Production &amp; Platform Impact</h4>
-  <ul>
-    <li><b>ZeroWebTools:</b> 55+ browser-based utilities running 100% client-side via WebAssembly.</li>
-    <li><b>KeepMacAwake:</b> 100+ active organic users preventing sleep via native Quartz HID events.</li>
-    <li><b>DocScale:</b> Multi-tenant platform provisioning SEO-optimized sites in &lt;10s.</li>
-    <li><b>Graduate AI:</b> MS CS from Georgia Tech completed with a perfect 4.0 / 4.0 GPA.</li>
-  </ul>
+<td width="58%" valign="top" style="padding-left: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan1112&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Zeeshan's Activity Graph" />
 </td>
 </tr>
 </table>
