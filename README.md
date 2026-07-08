@@ -1,4 +1,4 @@
-<h1 align="center"><font color="#3b82f6">ZEESHAN AHMAD</font></h1>
+<h1 align="center"><font color="#0a2540">ZEESHAN AHMAD</font></h1>
 <p align="center">
   <b>Principal Software Engineer &amp; AI Architect</b>
 </p>
@@ -10,9 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zeeshanahmad2/"><img src="https://img.shields.io/badge/LinkedIn-Zeeshan--Ahmad-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0284c7" alt="LinkedIn" /></a>
-  <a href="mailto:zeeshan.ahmad.career@gmail.com"><img src="https://img.shields.io/badge/Email-Zeeshan--Ahmad-blue?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Email" /></a>
-  <a href="https://zeeshanahmad.dev"><img src="https://img.shields.io/badge/Portfolio-zeeshanahmad.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white&color=0f172a" alt="Website" /></a>
+  <a href="https://linkedin.com/in/zeeshanahmad2/" target="_blank">
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%233b82f6" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zeeshan.ahmad.career@gmail.com">
+    <img src="https://api.iconify.design/material-symbols/mail-outline-rounded.svg?color=%233b82f6" height="28" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://zeeshanahmad.dev" target="_blank">
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%233b82f6" height="28" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,13 +32,13 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon/person-24.svg?color=%233b82f6&amp;v=2" style="height: 1.1em; vertical-align: middle;" /> &nbsp; Professional Overview
+### <img src="https://api.iconify.design/octicon/person-24.svg?color=%233b82f6&amp;v=3" style="height: 0.9em; vertical-align: middle;" /> &nbsp; Professional Overview
 
 I am an engineering leader with **10+ years of experience** building high-performance enterprise applications, now designing and building stateful multi-agent workflows, MCP-powered agent runtimes, LLM evaluation pipelines, and context-optimization layers.
 
 ---
 
-### <img src="https://api.iconify.design/octicon/repo-24.svg?color=%233b82f6&amp;v=2" style="height: 1.1em; vertical-align: middle;" /> &nbsp; Featured Architecture
+### <img src="https://api.iconify.design/octicon/repo-24.svg?color=%233b82f6&amp;v=3" style="height: 0.9em; vertical-align: middle;" /> &nbsp; Featured Architecture
 
 <table border="0" width="100%">
 <tr>
@@ -77,7 +85,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### <img src="https://api.iconify.design/octicon/cpu-24.svg?color=%233b82f6&amp;v=2" style="height: 1.1em; vertical-align: middle;" /> &nbsp; Technical Ecosystem
+### <img src="https://api.iconify.design/octicon/cpu-24.svg?color=%233b82f6&amp;v=3" style="height: 0.9em; vertical-align: middle;" /> &nbsp; Technical Ecosystem
 
 | category | tools & technologies |
 | :--- | :--- |
@@ -88,7 +96,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### <img src="https://api.iconify.design/octicon/graph-24.svg?color=%233b82f6&amp;v=2" style="height: 1.1em; vertical-align: middle;" /> &nbsp; Global Impact &amp; Metrics
+### <img src="https://api.iconify.design/octicon/graph-24.svg?color=%233b82f6&amp;v=3" style="height: 0.9em; vertical-align: middle;" /> &nbsp; Global Impact &amp; Metrics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="60%" alt="Zeeshan's GitHub Stats" />
