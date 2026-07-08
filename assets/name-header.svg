@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="40%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <style>
+      .name-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        font-weight: 900;
+        font-size: 52px;
+        fill: url(#nameGrad);
+        letter-spacing: -0.02em;
+      }
+    </style>
+  </defs>
+  <text x="50%" y="65" text-anchor="middle" class="name-text">ZEESHAN AHMAD</text>
+</svg>

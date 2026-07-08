@@ -1,4 +1,6 @@
-<h1 align="center">ZEESHAN AHMAD</h1>
+<p align="center">
+  <img src="./assets/name-header.svg" width="550" alt="Zeeshan Ahmad" />
+</p>
 <p align="center">
   <b>Principal Software Engineer &amp; AI Architect</b>
 </p>
@@ -24,13 +26,13 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon/person-24.svg?color=%233b82f6" height="22" align="center" /> Professional Overview
+### <img src="https://api.iconify.design/octicon/person-24.svg?color=%233b82f6" height="22" valign="middle" style="vertical-align: middle; margin-right: 4px;" /> Professional Overview
 
 I am an engineering leader with **10+ years of experience** building high-performance enterprise applications, now designing and building stateful multi-agent workflows, MCP-powered agent runtimes, LLM evaluation pipelines, and context-optimization layers.
 
 ---
 
-### <img src="https://api.iconify.design/octicon/repo-24.svg?color=%233b82f6" height="22" align="center" /> Featured Architecture
+### <img src="https://api.iconify.design/octicon/repo-24.svg?color=%233b82f6" height="22" valign="middle" style="vertical-align: middle; margin-right: 4px;" /> Featured Architecture
 
 <table border="0" width="100%">
 <tr>
@@ -77,7 +79,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### <img src="https://api.iconify.design/octicon/cpu-24.svg?color=%233b82f6" height="22" align="center" /> Technical Ecosystem
+### <img src="https://api.iconify.design/octicon/cpu-24.svg?color=%233b82f6" height="22" valign="middle" style="vertical-align: middle; margin-right: 4px;" /> Technical Ecosystem
 
 | category | tools & technologies |
 | :--- | :--- |
@@ -88,7 +90,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ---
 
-### <img src="https://api.iconify.design/octicon/graph-24.svg?color=%233b82f6" height="22" align="center" /> Global Impact & Metrics
+### <img src="https://api.iconify.design/octicon/graph-24.svg?color=%233b82f6" height="22" valign="middle" style="vertical-align: middle; margin-right: 4px;" /> Global Impact &amp; Metrics
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="60%" alt="Zeeshan's GitHub Stats" />
