@@ -1,8 +1,11 @@
 <h1 align="center">⚡ ZEESHAN AHMAD</h1>
+<p align="center">
+  <b>Principal Software Engineer & AI Architect</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Principal%20Software%20Engineer%20%26%20AI%20Architect;Designing%20stateful%20multi-agent%20workflows;Building%20secure%20MCP-powered%20runtimes;10%2B%20years%20of%20enterprise%20coding%20experience&font=Fira%20Code&center=true&width=500&height=45&color=3b82f6&vCenter=true&pause=1000&size=20" alt="Zeeshan Ahmad - Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Designing%20stateful%20multi-agent%20workflows;Building%20secure%20MCP-powered%20runtimes;Engineering%20LLM%20eval%20harnesses;10%2B%20years%20of%20enterprise%20coding%20experience&font=Fira%20Code&center=true&width=500&height=35&color=3b82f6&vCenter=true&pause=1000&size=16" alt="Zeeshan Ahmad - Typing SVG" />
   </a>
 </p>
 
@@ -86,13 +89,13 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 ---
 
 ### 📈 Global Impact & Metrics
+
 <p align="center">
-<img src="https://github-readme-stats-alpha.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=false" width="48%" />
-<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=zeeshan1112&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="55%" alt="Zeeshan's GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=tokyonight&starting_year=2025" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan1112&theme=tokyonight&starting_year=2025" width="55%" alt="Zeeshan's Streak Stats" />
 </p>
 
 ---
