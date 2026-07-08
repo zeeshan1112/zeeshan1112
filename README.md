@@ -35,7 +35,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4><img src="https://img.shields.io/badge/-%234285F4?style=flat-square&logo=googlechrome&logoColor=white" height="18" alt="Chrome Logo" /> <a href="https://github.com/zeeshan1112/zerowebtools">ZeroWebTools</a></h4>
+<h4><img src="./assets/zerowebtools-logo.png" height="22" align="center" alt="ZeroWebTools Logo" /> <a href="https://github.com/zeeshan1112/zerowebtools">ZeroWebTools</a></h4>
 <p>Privacy-first browser utility suite of 55+ developer, PDF, and image tools running 100% client-side via WebAssembly. Engineered with a modular TypeScript core library shared across the web app and a Chrome Extension.</p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -44,7 +44,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 </p>
 </td>
 <td width="50%" valign="top">
-<h4><img src="https://img.shields.io/badge/-%233FC08D?style=flat-square&logo=supabase&logoColor=white" height="18" alt="Supabase Logo" /> <a href="#">DocScale (Private)</a></h4>
+<h4><img src="./assets/docscale-logo.png" height="22" align="center" alt="DocScale Logo" /> <a href="#">DocScale (Private)</a></h4>
 <p>Healthcare B2B SaaS platform that automates clinic site provisioning in seconds. Architected with React/Vite dashboards, Next.js App Router for server-side rendering (SSR), and PostgreSQL Row Level Security (RLS) for tenant isolation.</p>
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -55,7 +55,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><img src="https://img.shields.io/badge/-%23000000?style=flat-square&logo=apple&logoColor=white" height="18" alt="macOS Logo" /> <a href="https://github.com/zeeshan1112/KeepMacAwake">KeepMacAwake</a></h4>
+<h4><img src="./assets/keepmacawake-logo.png" height="22" align="center" alt="KeepMacAwake Logo" /> <a href="https://github.com/zeeshan1112/KeepMacAwake">KeepMacAwake</a></h4>
 <p>Native macOS menu-bar utility preventing system sleep by posting synthetic user activity events directly into the CoreGraphics HID queue (bypassing macOS sleep policies without visible cursor movement).</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -64,7 +64,7 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 </p>
 </td>
 <td width="50%" valign="top">
-<h4><img src="https://img.shields.io/badge/-%2361DAFB?style=flat-square&logo=react&logoColor=black" height="18" alt="React Logo" /> <a href="https://github.com/zeeshanahmad-io/zeeshanahmad-dev-showcase">Zeeshan Ahmad Dev Showcase</a></h4>
+<h4><img src="./assets/showcase-logo.webp" height="22" align="center" alt="Dev Showcase Logo" /> <a href="https://github.com/zeeshanahmad-io/zeeshanahmad-dev-showcase">Zeeshan Ahmad Dev Showcase</a></h4>
 <p>Professional developer portfolio and technical blog built using React/Vite and Keystatic CMS, featuring hybrid Markdown storage and reader mode layout configurations.</p>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
