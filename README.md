@@ -90,9 +90,22 @@ I am an engineering leader with **10+ years of experience** building high-perfor
 
 ### 📈 Global Impact & Metrics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="60%" alt="Zeeshan's GitHub Stats" />
-</p>
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+  <img src="https://github-stats-extended.vercel.app/api?username=zeeshan1112&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" width="100%" alt="Zeeshan's GitHub Stats" />
+</td>
+<td width="45%" valign="top" style="padding-left: 20px;">
+  <h4>🚀 Production &amp; Platform Impact</h4>
+  <ul>
+    <li><b>ZeroWebTools:</b> 55+ browser-based utilities running 100% client-side via WebAssembly.</li>
+    <li><b>KeepMacAwake:</b> 100+ active organic users preventing sleep via native Quartz HID events.</li>
+    <li><b>DocScale:</b> Multi-tenant platform provisioning SEO-optimized sites in &lt;10s.</li>
+    <li><b>Graduate AI:</b> MS CS from Georgia Tech completed with a perfect 4.0 / 4.0 GPA.</li>
+  </ul>
+</td>
+</tr>
+</table>
 
 ---
 
